@@ -1,3 +1,5 @@
+![candy-machine-frontend-shows-nfts](https://user-images.githubusercontent.com/32665644/201434641-7633aa33-c576-4f27-8b1f-0560fc972f0e.png)
+
 
 # Solana dApp Scaffold Next
 
